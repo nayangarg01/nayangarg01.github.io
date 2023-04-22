@@ -24,7 +24,7 @@
  
  ***
  
-# *Hobies*
+# *Hobbies*
  
 Poetry
 
