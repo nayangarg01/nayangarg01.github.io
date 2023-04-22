@@ -27,6 +27,7 @@
 
  [1]: https://cisce.org/
  [2]: (https://www.jmcschoolgn.edu.in/)
+ 
  ***
 
  
@@ -38,9 +39,11 @@ Poetry
 Reading
 
 Badminton
+
 ***
 
 ## *Connect with me*
+
 [Instagram](https://www.instagram.com/nayangarg01/ "Nayan Garg")
 
 [Linkedn](https://www.linkedin.com/in/nayan-garg-905129256/ "Nayan Garg")
