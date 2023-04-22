@@ -1,4 +1,5 @@
 # My Profile
+
 |Name |Age |Gender|Date Of Birth |Designation|
 |-----|----|------|--------------|-----------|
 |Nayan Garg |19 years old |Male |20 November 2003 |Student|
@@ -12,6 +13,7 @@
  
 
  ## *Qualifications*
+ 
  Currently pursuing [Bachelors of Technology][2] in the field of Mathematics and Computing at [Indian Institute Of Technology Goa][1]
  
  [1]: https://iitgoa.ac.in/
