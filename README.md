@@ -8,7 +8,7 @@
  
  ***
  
- ## *Qualifications*
+ # *Qualifications*
  
  Currently pursuing [Bachelors of Technology][2] in the field of Mathematics and Computing at [Indian Institute Of Technology Goa][1]
  
@@ -24,7 +24,7 @@
  
  ***
  
-## *Hobbies*
+# *Hobbies*
  
 Poetry
 
@@ -34,7 +34,7 @@ Badminton
 
 ***
 
-## *Connect with me*
+# *Connect with me*
 
 [Instagram](https://www.instagram.com/nayangarg01/ "Nayan Garg")
 
