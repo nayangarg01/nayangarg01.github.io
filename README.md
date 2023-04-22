@@ -23,8 +23,8 @@
  [2]: (https://www.jmcschoolgn.edu.in/)
  
  ***
-
- ## *Hobbies*
+ 
+ ## *Hobies*
  
 Poetry
 
