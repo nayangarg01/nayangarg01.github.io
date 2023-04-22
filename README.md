@@ -8,7 +8,7 @@
  
  ***
  
- # *Qualifications*
+# *Qualifications*
  
  Currently pursuing [Bachelors of Technology][2] in the field of Mathematics and Computing at [Indian Institute Of Technology Goa][1]
  
