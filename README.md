@@ -3,7 +3,7 @@
 |-----|----|------|--------------|-----------|
 |Nayan Garg |19 years old |Male |20 November 2003 |Student|
  
- ![Nayan Garg](https://github.com/nayangarg01/nayangarg01.github.io/blob/main/Passport%20Size%20Photograph.jpg)
+ ![Nayan Garg]()
 
  
  ***
