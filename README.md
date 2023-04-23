@@ -4,7 +4,7 @@
 |-----|----|------|--------------|-----------|
 |Nayan Garg |19 years old |Male |20 November 2003 |Student|
  
- ![Nayan Garg](https://github.com/nayangarg01/nayangarg01.github.io/raw/main/IMG_9173%20(2).jpg)
+ ![Nayan Garg](https://github.com/nayangarg01/nayangarg01.github.io/blob/main/IMG_9173%20(2).jpg)
  
  ***
  
