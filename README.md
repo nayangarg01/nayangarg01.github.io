@@ -28,6 +28,8 @@
  
 Poetry
 
+![Tada!](https://github.com/nayangarg01/nayangarg01.github.io/raw/main/giphy.gif?raw=true)
+
 Reading
 
 Badminton
