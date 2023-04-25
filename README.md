@@ -14,8 +14,8 @@ Hi! I am Nayan, First year Student at IIT Goa pursuing Btech in mathematics and 
 
 |Academic Year |Standard |Academic Institution|
 |-----|----|------|
-|2020 |10th standard |Jesus And Mary Convent School ICSE|
-|2022 |12th standard |Amity International School Mayur Vihar CBSE|
+|2020 |10th standard |Jesus And Mary Convent School ICSE |
+|2022 |12th standard |[Amity International School Mayur Vihar CBSE](https://ais.amity.edu/mayurvihar/)|
 
 ***
 # Courses @IIT Go
