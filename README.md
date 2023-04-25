@@ -26,6 +26,7 @@ Hi! I am Nayan, First year Student at IIT Goa pursuing Btech in mathematics and 
 - **PH102** PHYSICS *Vaibhav Wasnik and Santosh Kumar Das*
 - **NO102** SPORTS *Santosh Upadhyay*
 - **ELPP** ENGLISH *Neerja Raghavan*
+- **ME101** MECHANICAL *Arindam Das*
 
  
 ***
