@@ -1,30 +1,37 @@
-# My Profile
+# About Me
 
-|Name |Age |Gender|Date Of Birth |Designation|
-|-----|----|------|--------------|-----------|
-|Nayan Garg |19 years old |Male |20 November 2003 |Student|
+Nayan Garg
+
 
 ![Nayan Garg](https://github.com/nayangarg01/nayangarg01.github.io/raw/main/IMG_9173%20(2).jpg)
- 
- ***
- 
-# *Qualifications*
- 
- Currently pursuing [Bachelors of Technology][2] in the field of Mathematics and Computing at [Indian Institute Of Technology Goa][1]
- 
- [1]: https://iitgoa.ac.in/
- [2]: https://en.wikipedia.org/wiki/Bachelor_of_Technology
- 
- Passed 12th [CBSE](https://www.cbse.[label](https://www.linkedin.com/in/nayan-garg-905129256/)gov.in/) board examinations from [Amity International School Mayur Vihar Delhi](https://ais.amity.edu/mayurvihar/) 
- 
- Passed 10th [ICSE][1] board examinations from [Jesus And Mary Convent School Greater Noida][2]
 
- [1]: https://cisce.org/
- [2]: (https://www.jmcschoolgn.edu.in/)
+Hi! I am Nayan, First year Student at IIT Goa pursuing Btech in mathematics and computing. I love to write and study Maths. 
  
  ***
  
-# *Hobbies*
+# Education
+
+
+|Academic Year |Standard |Academic Institution|
+|-----|----|------|
+|2020 |10th standard |Jesus And Mary Convent School ICSE|
+|2022 |12th standard |Amity International School Mayur Vihar CBSE|
+
+***
+# Courses @IIT Go
+- **CS102** COMPUTER SCIENCE *CLint P. George*
+- **BIO101** BIOLOGY *Nipa Chondgar*
+- **MA103-ODE** MATHEMATICS *Saumya Bajpai*
+- **EE101** ELECTRICAL *Apeksha Madhukar and Bidhan Pramanick*
+- **PH102** PHYSICS *Vaibhav Wasnik and Santosh Kumar Das*
+- **NO102** SPORTS *Santosh Upadhyay*
+- **ELPP** ENGLISH *Neerja Raghavan*
+
+ 
+***
+ 
+# Hobbies & Interests
+
  
 Poetry
 
@@ -35,32 +42,6 @@ Reading
 Badminton
 
 ***
-
-# *Connect with me*
-
-[Instagram](https://www.instagram.com/nayangarg01/ "Nayan Garg")
-
-[Linkedn](https://www.linkedin.com/in/nayan-garg-905129256/ "Nayan Garg")
-
- ***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
